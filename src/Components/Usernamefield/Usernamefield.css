@@ -1,0 +1,19 @@
+.usernamefield {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 380px;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.usernamefield input {
+    background: transparent;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 260px;
+    height: 30px;
+    border-color: white;
+    padding-left: 10px;
+    color: white;
+}
